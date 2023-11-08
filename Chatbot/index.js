@@ -16,7 +16,7 @@ app.use(
   })
 );
 
-const apiKey = "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";
+const apiKey = " ";
 const client = new OpenAI({
   apiKey: apiKey // This is also the default, can be omitted
 });
